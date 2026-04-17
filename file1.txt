@@ -1,0 +1,1 @@
+text created in file1.txt
